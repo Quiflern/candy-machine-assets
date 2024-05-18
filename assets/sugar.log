@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"quiflern-quiflern-z5a2rqiqd2b","pid":7471,"time":"2024-05-18T04:50:09.606033812Z","target":"sugar","line":123,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"MissingFileError(\"config.json\")","level":50,"hostname":"quiflern-quiflern-z5a2rqiqd2b","pid":7471,"time":"2024-05-18T04:50:09.606184312Z","target":"sugar_cli::config::parser","line":21,"file":"src/config/parser.rs"}
